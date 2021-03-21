@@ -10,5 +10,8 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@pengxiaobai/common": "^1.0.1"
   }
 }
